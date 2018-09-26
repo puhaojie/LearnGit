@@ -5,4 +5,4 @@ content
 
 增加内容
 增加内容
-Creating a new branch is master dev quick.
+Creating a new branch is master and $ dev quick.
